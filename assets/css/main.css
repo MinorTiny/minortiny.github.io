@@ -1311,7 +1311,7 @@
 
 	body {
 		background-color: #183026;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("https://images.alphacoders.com/511/511052.jpg"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		background-position: top left, center 0;
@@ -1991,7 +1991,7 @@
 				bottom: -4.5em;
 				margin-left: -45px;
 				margin-bottom: -33px;
-				background: url("https://images.alphacoders.com/511/511052.jpg") no-repeat;
+				background: url("images/arrow.svg") no-repeat;
 			}
 
 /* Banner */
